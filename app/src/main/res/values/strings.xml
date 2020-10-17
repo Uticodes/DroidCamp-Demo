@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">driodcamp_demo</string>
+    <string name="qvid_19">QVID ‘19</string>
+    <string name="qvid_19_is_a_quiz_app_about_">QVID’19 is a quiz app about the dreaded pandemic named corona virus which started in China and spread round the world.</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="read_more">Read more</string>
+    <string name="you_now_have">You now have a great knowledge about COVID’19 Test your knowledge.</string>
+    <string name="hurray">Hurray!</string>
+    <string name="you_answered_all_questions">You answered all questions.</string>
+    <string name="retake_quiz_again">Retake Quiz Again</string>
+    <string name="_20">20</string>
+    <string name="score">score:</string>
+    <string name="congrats">Congrats!</string>
+</resources>
